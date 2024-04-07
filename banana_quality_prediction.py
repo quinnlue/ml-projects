@@ -1,3 +1,20 @@
+### IMPORTANT DISCLAIMER ###
+# This project was written following Andrew Ng's course on machine learning
+
+# While I wrote and fully understand all of the code below,
+# The ideas are not original
+# This code will not pass any plagiarism checker 
+# It is not intended to
+
+# Also, this project does not follow many principles of a high quality model (i.e. testing on the training set)
+
+# This project's focus is understand the math behind gradient descent
+# Computing partial derivatives by hand in back prop 
+# Performing gradient descent with just numpy
+
+
+
+
 import numpy as np
 import pandas as pd
 
